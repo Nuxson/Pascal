@@ -1,0 +1,25 @@
+program sequence;
+
+begin
+	write('Two roads diverged in a yellow wood,');
+	readln;
+	write('And sorry I could not travel both');
+	readln;
+	write('And be one traveler, long I stood');
+	readln;
+	write('And looked down one as far as I could');
+	readln;
+	writeln('To where it bent in the undergrowth.');
+	readln;
+	write('Then took the other, as just as fair,');
+	readln;
+	write('And having perhaps the better claim,');
+	readln;
+	write('Because it was grassy and wanted wear;');
+	readln;
+	write('Though as for that the passing there;');
+	readln;
+	writeln('Had worn them really about the same.');
+	readln;
+	writeln('........');
+end.
